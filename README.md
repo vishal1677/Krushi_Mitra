@@ -1,4 +1,4 @@
-# krushi_mitra
+# Krushi_Mitra
 
 A flutter app to help farmers to improve their production and income.
 
